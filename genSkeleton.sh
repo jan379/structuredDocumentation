@@ -21,7 +21,7 @@ The tutorial should be
  - produce confidence at user side by teaching *practical knowledge*.
  - Your tutorial must be reliably repeatable.
 
-Reference: (https://www.divio.com/blog/documentation/)[Daniele Procida on documentation]
+Reference: [https://www.divio.com/blog/documentation/](Daniele Procida on documentation)
 
 EOF
 
