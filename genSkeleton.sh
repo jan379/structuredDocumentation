@@ -21,7 +21,7 @@ The tutorial should be
  - produce confidence at user side by teaching *practical knowledge*.
  - Your tutorial must be reliably repeatable.
 
-Reference: (Daniele Procida on documentation)[https://www.divio.com/blog/documentation/]
+Reference: [Daniele Procida on documentation](https://www.divio.com/blog/documentation/) 
 
 EOF
 
@@ -41,7 +41,7 @@ The How-To guide should
  - Focus on one goal.
  - Tell the user exactly what it does.
 
-Reference: (https://www.divio.com/blog/documentation/)[Daniele Procida on documentation]
+Reference: [Daniele Procida on documentation](https://www.divio.com/blog/documentation/) 
 
 EOF
 
@@ -65,7 +65,7 @@ The reference guide should
 The reference guide should not
  - include explanation, discussion, instruction, speculation, opinion
 
-Reference: (https://www.divio.com/blog/documentation/)[Daniele Procida on documentation]
+Reference: [Daniele Procida on documentation](https://www.divio.com/blog/documentation/) 
 
 EOF
 
@@ -85,7 +85,7 @@ Discussions are less easy to create than it might seem - things that are straigh
 
 A topic isn’t defined by a specific task you want to achieve, like a how-to guide, or what you want the user to learn, like a tutorial. It’s not defined by a piece of the machinery, like reference material. It’s defined by what you think is a reasonable area to try to cover at one time, so the division of topics for discussion can sometimes be a little arbitrary.
 
-Reference: (https://www.divio.com/blog/documentation/)[Daniele Procida on documentation]
+Reference: [Daniele Procida on documentation](https://www.divio.com/blog/documentation/) 
 
 EOF
 

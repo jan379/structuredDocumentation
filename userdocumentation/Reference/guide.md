@@ -16,5 +16,5 @@ The reference guide should
 The reference guide should not
  - include explanation, discussion, instruction, speculation, opinion
 
-Reference: (https://www.divio.com/blog/documentation/)[Daniele Procida on documentation]
+Reference: [Daniele Procida on documentation](https://www.divio.com/blog/documentation/) 
 

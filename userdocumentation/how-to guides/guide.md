@@ -13,5 +13,5 @@ The How-To guide should
  - Focus on one goal.
  - Tell the user exactly what it does.
 
-Reference: (https://www.divio.com/blog/documentation/)[Daniele Procida on documentation]
+Reference: [Daniele Procida on documentation](https://www.divio.com/blog/documentation/) 
 

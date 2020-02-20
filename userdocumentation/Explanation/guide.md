@@ -12,5 +12,5 @@ Discussions are less easy to create than it might seem - things that are straigh
 
 A topic isn’t defined by a specific task you want to achieve, like a how-to guide, or what you want the user to learn, like a tutorial. It’s not defined by a piece of the machinery, like reference material. It’s defined by what you think is a reasonable area to try to cover at one time, so the division of topics for discussion can sometimes be a little arbitrary.
 
-Reference: (https://www.divio.com/blog/documentation/)[Daniele Procida on documentation]
+Reference: [Daniele Procida on documentation](https://www.divio.com/blog/documentation/) 
 
